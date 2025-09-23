@@ -8,7 +8,7 @@ const counterStore = configureStore({
     privacy: privacySlice.reducer
   },
 });
-
+ZX
 
 
 export default counterStore;
